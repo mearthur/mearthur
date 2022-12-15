@@ -15,7 +15,8 @@ PROGAMADOR JUNIOR.<br>EM PROCESSAMENTO...
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
 [![](https://visitcount.itsvg.in/api?id=mearthur&icon=1&color=4)](https://visitcount.itsvg.in)
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
