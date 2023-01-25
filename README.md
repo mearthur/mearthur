@@ -1,4 +1,4 @@
-# 💫 About Me: Arthur Araujo
+# 💫 Arthur Araujo
 PROGAMADOR JUNIOR.<br>EM PROCESSAMENTO...
 
 
