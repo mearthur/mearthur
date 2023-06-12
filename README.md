@@ -1,5 +1,5 @@
 # 💫 Arthur Araujo
-PROGAMADOR JUNIOR.<br>EM PROCESSAMENTO...
+PROGAMADOR PLENO.<br>EM PROCESSAMENTO...
 
 
 ## 🌐 Socials:
