@@ -18,13 +18,14 @@ EM PROCESSAMENTO...<br>
   <img align="center" alt="ATR-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ATR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-
+<!--
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mearthur&show_icons=true&theme=merko)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mearthur&theme=chartreuse-dark&hide_border=true)<br/>
-
-
+-->
+<!--
 [![](https://visitcount.itsvg.in/api?id=mearthur&icon=1&color=4)](https://visitcount.itsvg.in)
+-->
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
