@@ -1,23 +1,25 @@
-# <strong>Arthur Araujo </strong>
-PROGAMADOR PLENO.<br>
-EM PROCESSAMENTO...<br>
+# <strong>Artthur Araujo </strong>
 
+Desenvolvedor Front-End e Designer UI/UX com mais de 4 anos de experiência, especializado em HTML, CSS, JavaScript, React, TypeScript, Next.js, Tailwind CSS e Figma.
+<br />
+Tenho paixão por transformar ideias em experiências digitais intuitivas e funcionais. Ao longo da minha trajetória, venho unindo design e desenvolvimento para criar interfaces que não apenas encantam visualmente, mas também otimizam processos e entregam resultados reais.
+<br />
+Sou movido por desafios, aprendizado contínuo e colaboração. Estou sempre em busca de oportunidades para aplicar meus conhecimentos, contribuir com soluções criativas e evoluir como profissional
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arthurarauj0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-araujo-373402194/) 
 
-# 💻 Tech Stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="ATR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ATR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ATR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ATR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ATR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ATR-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ATR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
+[![Discord]](https://discord.com/channels/@me)
+[![Instagram]](https://instagram.com/_arthurarauj0)
+[![LinkedIn]](https://www.linkedin.com/in/arthur-araujo-373402194/)
+
+## 💻 Tech Stack:
+
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,vue,docker,figma,github,jest,linux,styledcomponents,vercel,vite,discord,linkedin" />
+</a>
+  <br />
+  </div>
 <!--
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mearthur&show_icons=true&theme=merko)<br/>
